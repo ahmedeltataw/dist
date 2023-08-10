@@ -1,0 +1,1 @@
+import"./Nav.astro_astro_type_script_index_1_lang.50417801.js";let e=document.querySelectorAll(".btn .ChangeArrow"),r=document.documentElement;e.forEach(t=>{r.getAttribute("lang")=="ar"?t.style.transform="rotate(180deg)":t.style.transform="rotate(0deg)"});

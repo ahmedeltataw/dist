@@ -1,0 +1,412 @@
+{
+    "allTitle":{
+        "title1": "RYN | Home Page",
+        "title2":"RYN | About Us",
+        "title3":"RYN | Our Services",
+        "title4":"RYN | Contact Us",
+        "title5":"RYN | Our projects"
+    },
+    "allDes":{
+        "des1":" RYN is a premium service company. These services include anything from software design and development to maintenance and ongoing technical support to designing mobile applications, whether Android or iPhone.With our company, we turn your ideas into reality "
+    },
+    "linkNav":{
+        "Home" : "Home",
+        "AboutUS": "About US",
+        "Project":"Project",
+        "Services":"Services",
+        "contact":"Contact Us",
+        "servicesDetails":"Service Details"
+    },
+    "bannerDetails":{
+        "smallTitle":"Creative service",
+        "title":"Start your business",
+        "des":"RYN Foundation for website design and development services and phone applications operating with the Android and ios operating systems. The institution provides integrated web solutions to all institutions in the world and has a huge customer base in all countries of the world"
+    },
+    "mainHeading":{
+        "ser":{
+            "title":"Our Service",
+            "des":"We provide you with the design and development of software for companies and individuals and provide all the services you will need"
+        },
+        "about":{
+            "title":"About Us",
+            "des":"An overview of ourselves and some features that cannot be missed"
+        },
+        "process":{
+            "title":"Work Process",
+            "des":"We work in an organized manner according to scientific theories to ensure the best customer service"
+        },
+        "review":{
+            "title":"clients opinions",
+            "des":"Please see what it has to say about us"
+        },
+        "why":{
+            "title":"Why Choose Us",
+            "des":"We execute our ideas form the start to finish"
+        },
+        "contact":{
+            "title":"Get in touch",
+            "des":"Contact us at any time and we will respond to you quickly"
+        }
+    },
+
+    "SerCard":{
+        "title1":"Website programming and design",
+        "title2":"Programming and designing Android apps",
+        "title3":"Programming and designing iPhone apps",
+        "title4":"Electronic Marketing",
+        "title5":"Domain Reservation",
+        "title6":"Design services",
+        "des1":"Our company is considered one of the leading companies in the field of software and web design services for companies, institutions and individuals. The company designs unique websites with a special character, impressive attractive designs, and advanced services.",
+        "des2":"RYN Programming and Development provides a service for designing and programming smart phone applications with high efficiency and on all known systems such as Android",
+        "des3":"RYN Programming and Development provides a service for designing and programming smart phone applications with high efficiency and on all known systems such as IOS",
+        "des4":"Tokan offers e-marketing, as well as managing social media accounts, such as Instagram, Facebook, Twitter, and YouTube.",
+        "des5":"The ability to reserve domains from your account on the site and benefit from the monthly offers that we offer in this field. As after your purchase, you will have full control over your domain.",
+        "des6":"We are not an ordinary design company whose achievements are evident. We have many creative and talented people in this field",
+        "button":"Read on"
+    },
+    "AboutDetails":{
+        "title":"Get to know us more..",
+        "des":"RYN is an Egyptian company specialized in providing integrated web services, starting from graphic design and ending with programming and designing smart phone applications. RYN and its team have been striving since the day of its establishment to be one of the most important Arab web development companies, and we know the way and we are following it at a large pace",
+        "button":"know more"
+    },
+    "AboutCard":{
+        "title1":"Our vision",
+        "title2":"Our aspiration",
+        "title3":"Our goal",
+        "des1":"A new vision for web services and software development. We believe that the progress and richness of the Arab Web will only be achieved by presenting creative and new works in their methods, which is what we are working on as management and as a team.",
+        "des2":"In RYN, we innovate systems to change the features of the Arabic web for the better. Our ambition is to satisfy our customers, provide the best possible service in the most appropriate time and at a balanced cost, and complete cooperation with customers whose goal is innovation, development and success with us.",
+        "des3":"Our goal at RYN is to be one of the most important companies working in the field of developing websites, applications and other areas of the company's work, and it is a goal that we know that we will reach sooner or later thanks to the trust of our customers in it."
+    },
+    "processCard":{
+        "num1":"1",
+        "num2":"2",
+        "num3":"3",
+        "num4":"4",
+        "title1":"Analysis",
+        "title2":"Designing",
+        "title3":"Development",
+        "title4":"Test and support"
+    },
+    "support":{
+        "title":"Fast and secure technical support",
+        "des": "As a mid-sized software development company, we combine the best of both worlds. We have the focus and speed of small IT outsourcing companies combined with the scalability and experience of large companies.",
+        "button":"Contact Us"
+    },
+    "counter":{
+        "num1":"209",
+        "num2":"174",
+        "num3":"63",
+        "num4":"32",
+        "title1":"client",
+        "title2":"website",
+        "title3":"Android app",
+        "title4":"Iphone app"
+    },
+    "SerReview":{
+        "comment_1":{
+            "name":"mohamed gmal",
+            "Project":"Ride me website",
+            "comment":"“One of the best companies I have dealt with in practice, in terms of quality and high experience. All my needs were met perfectly.I wish you good luck. “"
+        },
+        "comment_2":{
+            "name":"ِAhmed Eltatawy",
+            "Project":"Filter application",
+            "comment":"“One of the best companies I have dealt with in practice, in terms of quality and high experience. All my needs were met perfectly.I wish you good luck. “"
+        },
+        "comment_3":{
+            "name":"ِAli mohamed",
+            "Project":"Filter application",
+            "comment":"“One of the best companies I have dealt with in practice, in terms of quality and high experience. All my needs were met perfectly.I wish you good luck. “"
+        }
+    },
+    "footer":{
+        "info":{
+            "des":"The best solution for your IT startup"
+        },
+        "title":{
+            "t1":"RYN",
+            "t2":"Contact mail",
+            "t3":"Follow Us"
+        },
+        "linkCompany":{
+            "l1":"our project",
+            "l2":"Marketing",
+            "l3":"offers",
+            "l4":"Terms & Conditions",
+            "l5":"Contact us"
+            
+        },
+        "contact":{
+            "l1":"technical support",
+            "l2":"Human Resources",
+            "l3":"Marketing and sales"
+        },
+        "follow":{
+            "facebook":"facebook",
+            "whatsapp":"Whatsapp"
+        },
+        "copyRight":{
+            "Copyright":"Copyright ©",
+            "half2":"All Rights Reserved"
+        }
+    
+},
+    "whyChoose":{
+        "why":"Because our goal is always to implement the customer's ideas with the latest means, so as to obtain customer and user satisfaction",
+        "title":{
+            "t1":"Flexible Solutions",
+            "t2":"Unlimited Support",
+            "t3":"Why...?"
+        },
+        "dse":{
+            "d1":"We always have solutions to all problems that meet the customer and implement his ideas at the lowest cost",
+            "d2":"We always provide continuous technical support for all problems that the customer or user encounters in a streamlined manner"
+        }
+    },
+    "sidebar":{
+        "top":{
+            "title":"Start your project now, implement your idea with us",
+            "btn":"Request service"
+        },
+        "middle":{
+            "title":"Category"
+            
+        },
+        "bottom":{
+            "title":"Tags",
+            "tags":{
+                "t1":"",
+                "t2":"",
+                "t3":"",
+                "t4":"",
+                "t5":"",
+                "t6":""
+            }
+
+        }
+    },
+    "web":{
+        "headTitle":{
+            "t1":"Design",
+            "t2":"Development",
+            "des":"We offer you a website design service with an attractive and modern design that is compatible with user experience standards. Website design has a significant impact on the success of the company or organization that seeks to create a website that gives information about the organization, its objectives, and the definition of services. Therefore, we help you design a website with the latest technologies that facilitate the access of your brand in a simple way. And clear to be your window to the world",
+            "list":{
+                "l1":"Company website design",
+                "l2":"Tourism website design",
+                "l3":"Training website design",
+                "l4":"Introductory website design",
+                "l5":"E-shop Design",
+                "l6":"Personal website design",
+                "l7":"News website design",
+                "l8":"Sports website design",
+                "l9":"Automotive website design",
+                "l10":"Real estate website design",
+                "l11":"Medical website design",
+                "l12":"School website design",
+                "l13":"Restaurant website design"
+            }
+        },
+        "smallTitle":{
+            "t1":"The latest and best",
+            "t2":"Comfort and safety",
+            "t3":"Modify and develop",
+            "t4":"complete compatibility",
+            "des":"We at RYN have a software team that is fully prepared to meet all the software that the customer requests in the best way, as we use multiple programming languages, especially the PHP language, which is the most used in software applications, and we seek all available means and technologies to present the site in the best form that the customer aspires to",
+            "list":{
+                "l1":"Using the best and newest communities",
+                "l2":"Providing software tools and features that give the customer comfort and ease of use",
+                "l3":"Providing software tools and features that give the customer comfort and ease of use",
+                "l4":"Compatibility with all browsers and devices and compatibility with search engines"
+            }
+        }
+    },
+    "android":{
+        "headTitle":{
+            "t1":"Latest design technology",
+            "t2":"Development",
+            "des":"Design is our primary business and its development is part of our policy towards the latest advanced technologies in the fields of designing, programming and developing smart mobile and tablet applications."
+            
+        },
+        "smallTitle":{
+            "t1":"Best competitive price",
+            "t2":"Continuous development of the application",
+            "t3":"Native applications",
+            "des":"The design of mobile applications is constantly evolving, so customers prefer to shop and interact with their favorite brand through mobile and easy-to-use applications according to the technology used in designing and developing mobile applications and the platform available on it, whether it is Google Play or Apple Store.",
+            "list":{
+                "l1":"Through our various packages that are suitable for all categories of small and medium companies and institutions, you can choose the best according to your business budget to ensure the best service and the best price at the same time.",
+                "l2":"The mobile software development team will continuously develop the application as soon as new updates are released to keep the application at the forefront",
+                "l3":"Mobile application programming with the native system is considered the best of all with its many advantages, as applications run more smoothly, especially graphics and animated designs"
+                
+            }
+        }
+    },
+    "marketing":{
+        "des":"Successful e-marketing and advertising campaigns are those in which the target audience is carefully identified, and then the best way to reach them within the time period specified for the campaign. In English: GMT Marketing) or (internet marketing), and it includes all methods and practices related to the world of (internet) network marketing: online communication, e-commerce optimization",
+        "headTitle":{
+            "t1":"Ensuring that your site's content or your product's advertisement is accessible",
+            "des":"To the first search results in the search engines in the regions and countries that you specify, and to obtain more visits at a lower cost per visit, we recommend Google Adwords Ads Management Service: Google Adwords is one of the largest and oldest advertising platforms run by Google. AdWords ads always achieve their desired goal efficiently, in terms of reaching the target market and potential customers easily."
+            
+        },
+        "smallTitle":{
+            "t1":"Complete targeting ",
+            "t2":"The latest and best",
+            "t3":"Advertising plan",
+            "t4":"Manage and follow up",
+            "t5":"Amazing results",
+            "list":{
+                "l1":"Not just any visitor, but select the type, country and gender of the visitor.",
+                "l2":"Using the best and latest software technologies and applying the maximum methods of protection",
+                "l3":"Develop an advertising plan and choose the best keywords for your ad",
+                "l4":"Intelligent management and follow-up of campaign statistics periodically.",
+                "l5":"Increase sales and brand recognition."
+                
+            }
+        }
+    },
+    "domain":{
+        "des":"RYN Web Solutions offers a web hosting offer. Our hosting is characterized by unprecedented security and stability, specially designed for your peace of mind, and it may reach 99% of the connection. We have many hosting plans that suit many websites and private businesses at reasonable prices that suit all requests.",
+        "headTitle":{
+            "t1":"Your first step in starting your online project",
+            "des":"Our hosting is characterized by unprecedented security and stability, specially designed for your peace of mind, which may reach 99% in contact, and we have many hosting plans that suit many sites and private work at reasonable prices that suit all requests"
+            
+        },
+        "smallTitle":{
+            "t1":"Continuous follow-up",
+            "t2":"Protection and security",
+            "t3":"SSL Certificates",
+            "t4":"Backup",
+            "list":{
+                "l1":"Continuous follow-up of your site's performance and hosting to ensure that you do not stop at any time",
+                "l2":"Our servers have a high-level security system that ensures their non-stop work, with protection programs that stop any attempt to hack or attack",
+                "l3":"Free installation of SSL certificates for all websites that we host",
+                "l4":"You make a daily, weekly and monthly backup, adding a copy to an external hard disk to preserve the site"
+            }
+        }
+    },
+    "domainCard":{
+        "title1":"small sites",
+        "title2":"Corporate websites",
+        "title3":"big sites",
+        "tag":"most wanted",
+        
+        "data":"monthly",
+        "feature-1":{
+            "f1":"Hosting space is 1 GB",
+            "f2":"Bandwidth / 10 GB per month",
+            "f3":"Control panel / C-panel in Arabic and English",
+            "f4":"3 number of databases",
+            "f5":"3 email number"
+        },
+        "feature-2":{
+            "f1":"Hosting space is 2 GB",
+            "f2":"Bandwidth / 20 GB per month",
+            "f3":"Control panel / C-panel in Arabic and English",
+            "f4":"5 number of databases",
+            "f5":"5 email number"
+        },
+        "feature-3":{
+            "f1":"Hosting space is 5 GB",
+            "f2":"Bandwidth / 50 GB per month",
+            "f3":"Control panel / C-panel in Arabic and English",
+            "f4":"Infinite number of databases",
+            "f5":"Infinite email/number"
+        },
+        "button":"Order now"
+    },
+    "design":{
+        "headTitle":{
+            "t1":"Design",
+            "t2":"Graphic services",
+            "des":"We offer you a website design service with an attractive and modern design that is compatible with user experience standards. Website design has a significant impact on the success of the company or organization that seeks to create a website that gives information about the organization, its objectives, and the definition of services. Therefore, we help you design a website with the latest technologies that facilitate the access of your brand in a simple way. And clear to be your window to the world",
+            "list":{
+                "l1":"Company website design",
+                "l2":"Tourism website design",
+                "l3":"Training website design",
+                "l4":"Introductory website design",
+                "l5":"E-shop Design",
+                "l6":"Personal website design",
+                "l7":"News website design",
+                "l8":"Sports website design",
+                "l9":"Automotive website design",
+                "l10":"Real estate website design",
+                "l11":"Medical website design",
+                "l12":"School website design",
+                "l13":"Restaurant website design"
+            }
+        },
+        "smallTitle":{
+            "t1":"Designing business identities and logos",
+            "t2":"Design advertising and infographic banners",
+            "t3":"Corporate publications design",
+            
+            "des":"The company undertakes all projects related to graphics, such as identity designs, regular page graphics designs to discuss or communicate a certain idea, and any graphic design related to websites, applications, and forums.",
+            "list":{
+                "l1":"RYN is a company specialized in everything related to programming and graphic designs and has a skilled team to perform all its projects to the fullest, and some of its services are an expression directly or indirectly of your company’s services and introducing those interested in the same field as your company and its mission, goals and vision and it is considered a very powerful factor in the delivery of The advantages that you offer to your customers have a positive impact on reaching new segments and attracting new followers for your company or project",
+                "l2":"Ignite the types and types of services on websites and social networking sites, with the hands of specialists and experts in banners and infographics for the details of the banner to know what is behind the advertisement",
+                "l3":"We provide publications design services (brochures - flyers - cards - billboards - and everything related to publications) with high technologies by professional designers in this field in various sizes and designs. We take into account that accuracy and quality, and because we know how printing machines work in printing presses, we can provide The works are in formats that are fully compatible with printing machines and in accurate sizes that match the natural shape"
+               
+            }
+        }
+    },
+    "contactInfo":{
+        "title1":"name",
+        "title2":"E-mail",
+        "title3":"phone number",
+        "title4":"Subject",
+        "title5":"message",
+        "errors":"please fill this field",
+        "button":" send",
+        "Official":{
+            "title1":"Official Website",
+            "title2":"Email Address",
+            "title3":"Phone Number"
+        }
+
+    },
+    "popup":{
+        "success":{
+            "title":"thank you",
+            "des":"You will receive the reply as soon as possible"
+        },
+        "error":{
+            "title":"sorry for you",
+            "des":"Something went wrong!"
+        },
+        "button":"ok"
+        
+    },
+    "project":{
+        "buttonFilter":{
+            "title1":"all",
+            "title2":"website",
+            "title3":"android",
+            "title4":"iPhone"
+        },
+        "card":{
+            "des1":"An online store specialized in selling cosmetics with some features",
+            "des2":"Glanz Building Cleaning, the trusted cleaning company for all types of cleaning services",
+            "des3":"An online store that allows your car to be offered for sale or to buy a new one",
+            "des4":" Home care application for nursing - patients - the elderly - children - people with special needs ",
+            "des5":" House cleaning service in Madinah with efficiency and distinction using the best and latest equipment ",
+            "des6":" Online medical, pharmaceutical, surgical, research equipment and consumables at the lowest price ",
+            "des7":" Zouk application includes three users (applications), they are (family client-mandoub) that includes more than 1000 productive families ",
+            "des8":" Home platform for wood industries. It is a global platform for wood industries of all kinds ",
+            "des9":"ilsorbetto was originally born in 2013 and was probably the only company at that time making authentic Italian gelato (ice cream) in Qatar",
+            "des10":" The first website in Egypt and the Arab world, ready to put your name and the name of your loved one on it, so that it becomes an ongoing charity for you ",
+            "des11":" The filter application for all your water filter care services, including changing, maintaining and purchasing",
+            "des12":" For more than 10 years, the hospital has been working to provide the best services, and we have a group of the best, most experienced and efficient doctors in all our clinics. ",
+            "des13":"Your Place Cars Company is a company specialized in selling the best cars ",
+            "des14":" The first website in the Arab world that helps you determine the direction of the qiblah ",
+            "des15":"A personal website specially designed for you, and you can put whatever you want ",
+            "des16":" A site for requesting graphic design services and features ... ",
+            "des17":" An integrated online store for displaying and selling various products ",
+            "des18":"",
+            "des19":""
+            
+        }
+    }
+
+
+
+
+}
